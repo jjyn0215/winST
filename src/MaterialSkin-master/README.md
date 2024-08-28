@@ -8,6 +8,8 @@ Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.
 >
 > ℹ️ The current state of this project state is: **not active**
 
+**Removed ROBOTO and Added Noto-Sans KR to support Korean(Hangul)**
+
 ## Contributing
 
 - Feel free to open a PR with new features or bug fixes. Since this project is not currently active, big changes will not be considered.
