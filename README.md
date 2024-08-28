@@ -9,7 +9,7 @@ However official ST application has some lack of function so I tried to make a n
 
 ## Functions
 - Basic device on/off
-- Make a shortcut to control devices in background
+- Make a shortcut keys to control devices in background
 - Allows to show location status
 - Multiple tokens can be used by logining and It's locally saved
 
