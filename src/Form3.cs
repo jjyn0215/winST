@@ -160,7 +160,7 @@ namespace TeamProject01
         private void Form_Exit(object sender, EventArgs e)
         {
             // 애플리케이션 종료
-            Application.Exit();
+            Environment.Exit(0);
         }
 
        /*
@@ -172,6 +172,7 @@ namespace TeamProject01
             keyboardHook.Unhook();
             trayIcon.Dispose();
             base.OnFormClosing(e);
+            Environment.Exit(0);
         }
 
         /*
