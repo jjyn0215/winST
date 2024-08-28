@@ -19,7 +19,8 @@ However official ST application has some lack of function so I tried to make a n
 > If you don't have ST Token, you can get [HERE](https://account.smartthings.com/tokens)
 
 > It will load your devices at devices page however this takes some time depending on your Internet quailty ( less than a minute )
-#### 3. To make a shortcut, click a label of device that you want. Maximum combination is 3, First key should start with LCtrl. This will trigger anytime.
+#### 3. To make a shortcut, click a label of device that you want.Maximum combination is 3.
+> First key should start with LCtrl. This will trigger anytime.
     
 ## Todo
 1. Sensor status display
