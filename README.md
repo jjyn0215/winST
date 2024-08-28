@@ -11,7 +11,7 @@ However official ST application has some lack of function so I tried to make a n
 - Basic device on/off
 - Make a shortcut to control devices in background
 - Allows to show location status
-- Multiple keys can be used by logining and It's locally saved
+- Multiple tokens can be used by logining and It's locally saved
 
 ## How to use
 #### 1. Sign up and Login
