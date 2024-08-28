@@ -2,6 +2,7 @@
 A simple device controller for SmartThings
 
 
+![Sample](https://github.com/jjyn0215/winST/blob/main/sample.png?raw=true)
 # Why did you make this?
 I'm new at C# ( I'm not a professional even ) btw my college wanted me to make a project
 
