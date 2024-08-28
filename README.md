@@ -4,7 +4,7 @@ A simple windows app for SmartThings to control devices
 ## Why did you make this?
 I'm new at C# ( I'm not a professional even ) btw my college wanted me to make a project
 
-However official ST application is quite useless so I tried to make a new one using
+However official ST application has some lack of function so I tried to make a new one using
 [MaterialSkin2](https://github.com/leocb/MaterialSkin) Lib
 
 ## Functions
