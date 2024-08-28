@@ -16,6 +16,7 @@ using Newtonsoft.Json.Linq;
  * 구현 필요 기능
  * 2. 센서 데이터 카드에 표시 .. 복잡함 ...
  * 10. 자동로그인 ....
+ * git test
  */
 
 namespace TeamProject01
