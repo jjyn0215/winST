@@ -23,7 +23,7 @@ However official ST application has some lack of function so I tried to make a n
     
 ## Todo
 1. Sensor status display
-2. Make load faster, but **HOW?**
+2. Make load faster, but **HOW?** (caching?)
 3. More device support
 4. More language support
 5. Convert to WPF application?
