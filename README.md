@@ -26,7 +26,8 @@ However official ST application has some lack of function so I tried to make a n
 2. Make load faster, but **HOW?** (caching?)
 3. More device support
 4. More language support
-5. Convert to WPF application?
+5. Need to fix some terrible codes
+6. Convert to WPF application?
 
 ## Preview
 ![Sample1](https://github.com/jjyn0215/winST/blob/main/sample2.png?raw=true)
