@@ -1,7 +1,7 @@
 ﻿using MaterialSkin.Controls;
 using System.Reflection.Emit;
 
-namespace TeamProject01
+namespace winST
 {
     partial class Form3
     {
@@ -263,7 +263,7 @@ namespace TeamProject01
             this.change_theme_button.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.change_theme_button.Depth = 0;
             this.change_theme_button.HighEmphasis = false;
-            this.change_theme_button.Icon = global::TeamProject01.Properties.Resources.contrast_24dp_FILL0_wght400_GRAD0_opsz24;
+            this.change_theme_button.Icon = global::winST.Properties.Resources.contrast_24dp_FILL0_wght400_GRAD0_opsz24;
             this.change_theme_button.Location = new System.Drawing.Point(1213, 134);
             this.change_theme_button.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.change_theme_button.MouseState = MaterialSkin.MouseState.HOVER;

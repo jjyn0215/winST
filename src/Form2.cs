@@ -4,7 +4,7 @@ using System;
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace TeamProject01
+namespace winST
 {
     public partial class Form2 : MaterialForm
     {

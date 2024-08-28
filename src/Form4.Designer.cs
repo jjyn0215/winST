@@ -1,4 +1,4 @@
-﻿namespace TeamProject01
+﻿namespace winST
 {
     partial class Form4
     {
