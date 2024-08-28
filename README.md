@@ -1,5 +1,5 @@
 # winST
-A simple windows app for SmartThings to control devices
+A simple windows app for SmartThings that control devices
 
 ## Why did you make this?
 I'm new at C# ( I'm not a professional even ) btw my college wanted me to make a project
