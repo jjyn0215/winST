@@ -27,8 +27,9 @@ However official ST application has some lack of function so I tried to make a n
 2. Make load faster, but **HOW?** (caching?)
 3. More device support
 4. More language support
-5. Need to fix some terrible codes
-6. Winform has a lot of limitations, maybe I should convert to Electron or WPF
+5. Make Tray interface more functional
+6. Need to fix some terrible codes
+7. Winform has a lot of limitations, maybe I should convert to Electron or WPF
 
 ## Preview
 ![Sample1](https://github.com/jjyn0215/winST/blob/main/sample2.png?raw=true)
